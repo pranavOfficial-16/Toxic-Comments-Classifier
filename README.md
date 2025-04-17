@@ -6,7 +6,7 @@ This project aims to build a machine learning model capable of classifying Wikip
 
 ### Data
 
-The dataset originates from the Jigsaw Toxic Comment Classification Challenge on Kaggle and contains comments from Wikipedia talk pages, pre-labeled by human raters for each of the six toxicity categories.
+The dataset originates from the [Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) on Kaggle and contains comments from Wikipedia talk pages, pre-labeled by human raters for each of the six toxicity categories.
 
 ### Workflow
 
