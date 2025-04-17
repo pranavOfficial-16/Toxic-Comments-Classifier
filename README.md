@@ -1,4 +1,4 @@
-# Toxic Comment Classifier
+# Toxic Comments Classifier
 
 ### Project Overview
 
@@ -39,4 +39,4 @@ The dataset originates from the Jigsaw Toxic Comment Classification Challenge on
 ### Conclusion
 
 The project successfully preprocesses text data, addresses class imbalance, trains and evaluates multiple models for multi-label toxic comment classification, and demonstrates prediction on new data. The Random Forest model, along with the TF-IDF vectorizer, was selected and prepared for persistence, enabling efficient reuse.
-# Toxic-Comments-Classifier
+
